@@ -1,2 +1,44 @@
-# Recommendation-Systems
-A collection of recommendation system projects including collaborative, content-based, and hybrid approaches.
+# 🎯 Recommendation Systems Portfolio
+
+This repository is a **professional portfolio** containing selected **Recommendation System projects**.  
+Each project demonstrates practical implementation of recommender system techniques on real-world datasets.
+
+---
+
+## 📂 Projects
+
+### 🎬 FilmFinder: Content-Based Movie Recommender
+**Category:** Recommendation Systems (Content-Based Filtering)
+
+A content-based recommendation system that suggests movies based on similarity between item features such as genres, ..., descriptions and actors.
+
+**Key Highlights:**
+- Feature extraction from movie metadata
+- Similarity computation using vector space models
+- Personalized movie recommendations based on content similarity
+
+**Techniques Used:**
+- TF-IDF
+- Cosine similarity
+- Content-based filtering logic
+
+📓 **Notebook**
+```
+FilmFinder/content_based_movie_recommender.ipynb
+```
+
+---
+
+## 🛠 Technologies Used
+
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- SciPy
+- spaCy
+- Jupyter Notebook
+
+---
+
+⭐ If you find this repository useful, feel free to give it a star.
