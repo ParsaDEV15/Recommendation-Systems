@@ -29,6 +29,29 @@ FilmFinder/content_based_movie_recommender.ipynb
 
 ---
 
+### 🎬 CineFusion: Hybrid Movie Recommendation System
+**Category:** Hybrid Recommendation System (UBCF + IBCF)
+
+A hybrid movie recommendation system that combines **User-Based Collaborative Filtering (UBCF)** and **Item-Based Collaborative Filtering (IBCF)** to provide personalized movie recommendations based on user behavior and item similarity.
+
+**Key Highlights:**
+- User–user similarity analysis for preference-based recommendations
+- Item–item similarity analysis for content-agnostic recommendations
+- Hybrid strategy combining UBCF and IBCF outputs
+- Personalized recommendations based on collaborative patterns
+
+**Techniques Used:**
+- User-Based Collaborative Filtering (UBCF)
+- Item-Based Collaborative Filtering (IBCF)
+- Similarity computation using cosine similarity
+- Hybrid recommendation strategy
+
+```
+CineFusion/ubcf_ibcf_hybrid_movie_recommender.ipynb
+```
+
+---
+
 ## 🛠 Technologies Used
 
 - Python
