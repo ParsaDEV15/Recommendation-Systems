@@ -45,6 +45,15 @@ A hybrid movie recommendation system that combines **User-Based Collaborative Fi
 - Item-Based Collaborative Filtering (IBCF)
 - Similarity computation using cosine similarity
 - Hybrid recommendation strategy
+  
+**Dataset**
+
+The dataset used in this project is available for download:
+
+🔗 **Download Dataset:**  
+https://drive.google.com/uc?export=download&id=YOUR_FILE_ID
+
+After downloading, extract the dataset and place it in the `CineFusion/` directory.
 
 ```
 CineFusion/ubcf_ibcf_hybrid_movie_recommender.ipynb
